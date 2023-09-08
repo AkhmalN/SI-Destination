@@ -1,0 +1,38 @@
+*{
+   box-sizing: border-box;
+}
+body{
+   font-family: 'Lato', sans-serif;
+}
+.hero{
+
+      font-weight : normal;
+}
+.navbar{
+   background-color: rgba(255, 255, 255, 0.2);
+   opacity : 0.7;
+   width : 100%;
+}
+.background-image {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   z-index: -1; /* Put the image behind other content */
+   opacity: 0.6; /* Adjust the opacity as needed */
+ }
+ 
+ .header {
+   position: relative;
+ }
+/* .header{
+   background-image: url("../src/images/header.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+} */
+.btn-light{
+   width : 100px;
+   height : auto;
+   border-radius : 20px;
+}
