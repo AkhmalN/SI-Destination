@@ -1208,7 +1208,7 @@ export const DATA = [
     description:
       "Objek Wisata Taman Spathodea di Jagakarsa DKI Jakarta Selatan Jakarta adalah salah satu tempat wisata yang berada di Jl. Kebagusan Raya, Kecamatan Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia. Objek Wisata Taman Spathodea di Jagakarsa DKI Jakarta Selatan Jakarta adalah tempat wisata yang ramai dengan wisatawan pada hari biasa maupun saat liburan. Yang menjadi daya tarik Taman Spathodea memiliki banyak jenis tanaman yang ditanam baik pepohonan dan bunga-bunga yang menghiasi area taman. Ada danau kecil yang berada ditengah taman akan membuat nyaman pengunjung. Banyak Fasilitas umum juga tersedia di Taman Spathodea seperti misalnya lintasan jogging, kolam ikan, outdoor gym, taman bermain untuk anak-anak, toilet, parkiran yang cukup luas dan tempat duduk yang cukup nyaman. Taman Spathodea ini hanya buka mulai pukul 05.00 – 18.00 WIB jadi kalo sudah mulai malam taman ini akan ditutup untuk umum.",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://mytrip123.com/wp-content/uploads/2022/10/taman-spathodea.jpg",
     category: "Taman Hiburan",
     city: "Jakarta",
     price: "0",
@@ -1224,7 +1224,7 @@ export const DATA = [
     description:
       "Plaza Indonesia diresmikan pada awal tahun 1990, terdiri dari empat lantai pertokoan kelas atas dengan luas 38.050 m2. Pusat perbelanjaan ini terletak di Bundaran Hotel Indonesia, tepatnya pada perantara jalan M.H. Thamrin dan jalan Kebon Kacang Raya di kawasan bisnis utama Jakarta.\\nPlaza Indonesia juga dilengkapi dengan hotel Grand Hyatt Jakarta, sebuah hotel bintang lima berlantai 28 yang resmi dibuka juga pada awal tahun 1990. Hotel ini memiliki lebih dari 300 kamar dengan desain modern minimalis, restoran-restoran eksklusif, dan fasilitas yang sangat lengkap.\\nPengembangan Plaza Indonesia berlanjut ketika Entertainment X'nter dibuka disebelah gedung yang ada dengan membidik pangsa pasar anak muda. Kedua gedung disambung dengan sebuah jembatan yang dikelilingi toko-toko.\\nKini, Plaza Indonesia telah dilengkapi dengan gedung perkantoran The Plaza Office Tower dan apartement The Keraton Grand Hyatt Residences.\\nPlaza Indonesia dikembangkan oleh PT Global Land Development Tbk (sebelumnya bernama PT Kridaperdana Indahgraha Tbk).",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://img2.beritasatu.com/cache/beritasatu/960x620-3/1399473598.JPG",
     category: "Pusat Perbelanjaan",
     city: "Jakarta",
     price: "0",
@@ -1240,7 +1240,7 @@ export const DATA = [
     description:
       "Thamrin City atau Thamrin City Mall merupakan pusat perbelanjaan besar yang berada di Jakarta Pusat, yang lokasinya terletak ± 150 meter dari bundaran Hotel Indonesia dan ± 300 meter dari Pasar Tanah Abang, yang tepatnya berada di Jl. Thamrin Boulevard (d h Kebon Kacang Raya) dengan akses berbagai arah antara lain dari Jl. Thamrin, Jl. Teluk Betung, maupun dari Jl. KH. Mas Mansyur",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://advontura.com/wp-content/uploads/2021/01/thamrin-city-mall-3-1.jpg",
     category: "Pusat Perbelanjaan",
     city: "Jakarta",
     price: "0",
@@ -1256,7 +1256,7 @@ export const DATA = [
     description:
       "Museum Satria Mandala adalah museum sejarah perjuangan Tentara Nasional Indonesia yang terletak di Jalan Gatot Subroto, Jakarta Selatan. Museum yang diresmikan pada tahun 1972 oleh mantan Presiden Indonesia, Soeharto ini awalnya adalah rumah dari salah satu istri mantan Presiden Indonesia, Soekarno, yaitu istrinya yang bernama Ratna Sari Dewi Soekarno. Dalam museum ini dapat ditemui berbagai koleksi peralatan perang di Indonesia, dari masa lampau hingga modern seperti koleksi ranjau, rudal, torpedo, tank, meriam bahkan helikopter dan pesawat terbang (satu di antaranya adalah pesawat Cureng yang pernah diterbangkan oleh Marsekal Udara Agustinus Adisucipto).\\nSelain itu museum ini juga menyimpan berbagai macam benda bersejarah yang berkaitan dengan TNI seperti aneka senjata berat maupun ringan, atribut ketentaraan, panji-panji dan lambang-lambang di lingkungan TNI. Selain itu di museum ini dipamerkan juga tandu yang dipergunakan untuk mengusung Panglima Besar Jenderal Soedirman saat dia bergerilya dalam keadaan sakit melawan pendudukan kembali Belanda pada era 1940-an.\\nMasih dalam kompleks Museum TNI Satriamandala ini terdapat juga Museum Waspada Purbawisesa yang menampilkan diorama ketika TNI bersama-sama dengan rakyat menumpas gerombolan separatis DI TII di Jawa Barat, Jawa Tengah, Aceh, Kalimantan Selatan dan Sulawesi Selatan pada era tahun 1960-an. Fasilitas lainnya yang ada di Museum TNI Satriamandala ini antara lain adalah Taman Bacaan Anak, Kios Cenderamata, Kantin serta Gedung Serbaguna yang berkapasitas 600 kursi.",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://binaqurani.sch.id/wp-content/uploads/2021/11/Bina-Qurani-Sejarah-Museum-Satria-Mandala-From-Tagar-id.jpg",
     category: "Budaya",
     city: "Jakarta",
     price: "5000",
@@ -1272,7 +1272,7 @@ export const DATA = [
     description:
       "Museum kini tidak hanya menawarkan benda – benda yang bernilai sejarah dan edukatif. Tapi telah disulap menjadi wahana rekreasi seru dengan objek foto yang berbeda. Seperti Alive Museum yang ada di Ancol. Alive Museum menampilkan berbagai seni rupa berupa lukisan 3 dimensi. Dimana pengunjung dapat berfoto dengan latar belakang yang nyata meski hanya dari foto. Dan karena 3 dimensi, tentu foto akan terlihat nyata dengan objeknya.",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://farm1.staticflickr.com/925/42560125254_ef21acdbd1_c.jpg",
     category: "Taman Hiburan",
     city: "Jakarta",
     price: "200000",
@@ -1287,7 +1287,7 @@ export const DATA = [
     description:
       "Tidak seperti Pecenongan, Kawasan Kuliner BSM buka dari pukul 09:00 hingga 18:00. Berlokasi di Jalan M. H. Thamrin, Jakarta Pusat, Kawasan Kuliner BSM merupakan tempat makan murah favorit warga sekitar serta pelancong. Kawasan kuliner Jakarta ini menghadirkan kios dan warung yang berderet di satu area khusus. Pengunjung bisa menyusuri jalur sempit di antara tiap kios untuk memilih hidangan. Kawasan Kuliner BSM menghadirkan hidangan berat dan makanan ringan. Pengunjung bisa menemukan bakso, nasi goreng, aneka soto, nasi Padang, nasi uduk, pecel, sete, gudeg, gado-gado, dan sebagainya. Ada juga berbagai hidangan ringan dan kue-kue, seperti misalnya donat kentang, jamur goreng, sup buah, kentang goreng, dan beragam gorengan. Pengunjung bisa naik bus Trans Jakarta koridor 1 (Blok M-Kota) hingga ke Halte Bank Indonesia, lalu menyeberang jalan ke dekat gedung Bank Mandiri. Dari sana, Kawasan Kuliner BSM cukup mudah ditemukan.",
     place_image:
-      "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-ancol-lengkap.jpeg",
+      "https://1.bp.blogspot.com/-70SnWFb2-0s/WYhC8HApybI/AAAAAAAAAVU/iqMRguP285QMTegBh340BEzqgvtIgQyzgCLcBGAs/s1600/IMG_4054.JPG",
     category: "Pusat Perbelanjaan",
     city: "Jakarta",
     price: "0",
